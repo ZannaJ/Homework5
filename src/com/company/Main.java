@@ -16,8 +16,9 @@ public class Main {
         natalja.walk();
         natalja.talk();
         natalja.eat();
-        natalja.run(true);
-        
+        natalja.run(false);
+
+
 
     }
 }

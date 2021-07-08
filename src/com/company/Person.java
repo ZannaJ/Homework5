@@ -20,7 +20,7 @@ public class Person {
         if (sportsmen) {
             System.out.println("She is a sportsmen");
         } else {
-            System.out.println("She is lazy");
+            System.out.println("She is a little bit lazy");
         }
     }
     public String getGender() {
